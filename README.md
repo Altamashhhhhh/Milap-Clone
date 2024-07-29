@@ -1,5 +1,8 @@
 # Milap Static Webpage
 
+**Milap** is a leading online crowdfunding platform in India, dedicated to raising funds for personal, medical, and social causes.
+
+
 The **Milap Static Webpage** project is a front-end replication of the Milap fundraising website, crafted as a single-page static site. This project highlights my ability to create a clean and visually appealing webpage using **HTML**, **CSS**, and **JavaScript**. It features a streamlined design that captures the essence of the Milap platform.
 
 
